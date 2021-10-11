@@ -6,3 +6,5 @@ Packages installed in conda:
 - jupyter-lab
 - numpy
 - pandas
+- matplotlib
+- seaborn
