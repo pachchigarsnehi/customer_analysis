@@ -1,0 +1,15 @@
+name: cust-analysis-new
+channels:
+  - https://conda.anaconda.org/conda-forge
+dependencies:
+    # Base depends
+  - python
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+
+    # Linting
+  - black
+  - pylint >=2.6.0
