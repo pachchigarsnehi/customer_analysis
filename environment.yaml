@@ -1,4 +1,4 @@
-name: cust-analysis-new
+name: cust-analysis
 channels:
   - https://conda.anaconda.org/conda-forge
 dependencies:
