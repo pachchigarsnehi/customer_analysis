@@ -1,6 +1,7 @@
 name: cust-analysis
 channels:
   - https://conda.anaconda.org/conda-forge
+  - https://conda.anaconda.org/districtdatalabs
 dependencies:
     # Base depends
   - python
@@ -10,6 +11,7 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - yellowbrick
 
     # Linting
   - black
