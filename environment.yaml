@@ -1,7 +1,7 @@
 name: cust-analysis
 channels:
   - https://conda.anaconda.org/conda-forge
-  - https://conda.anaconda.org/districtdatalabs
+  - districtdatalabs
 dependencies:
     # Base depends
   - python
